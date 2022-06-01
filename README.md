@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammadqodir2151
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on js
+- 👀 I’m interested in C and C++
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on C
 - 📫 How to reach me @muhammadqodir2151
 
 <!---
